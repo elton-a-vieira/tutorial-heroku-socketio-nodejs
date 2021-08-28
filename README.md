@@ -1,2 +1,15 @@
-# tutorial-heroku-socketio-nodejs
-A simple client server communication using socketio
+# 
+
+
+# Introduction
+
+## Project  
+
+tutorial-heroku-socketio-nodejs
+
+## Description
+
+A simple client server communication using socket.io
+
+## Reference
+[link](https://devcenter.heroku.com/articles/node-websockets)
